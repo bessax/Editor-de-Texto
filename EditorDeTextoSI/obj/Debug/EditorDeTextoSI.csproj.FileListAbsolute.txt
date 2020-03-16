@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\bin\Debug\EditorDeTextoSI.exe.config
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\bin\Debug\EditorDeTextoSI.exe
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\bin\Debug\EditorDeTextoSI.pdb
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\obj\Debug\EditorDeTextoSI.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\obj\Debug\EditorDeTextoSI.Form1.resources
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\obj\Debug\EditorDeTextoSI.Properties.Resources.resources
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\obj\Debug\EditorDeTextoSI.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\obj\Debug\EditorDeTextoSI.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\obj\Debug\EditorDeTextoSI.exe
+C:\Users\andre\source\repos\EditorDeTextoSI\EditorDeTextoSI\obj\Debug\EditorDeTextoSI.pdb
